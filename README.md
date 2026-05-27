@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .golf one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,630 domains · **Median ask:** $17.17 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/golf`  
 **Best for:** founders, investors, studios
 
@@ -74,7 +74,7 @@ print(df.head())
 | stories.golf      | resell    | —         | —             | 58             | 36     | 7      | GoDaddy.com, LLC                    |
 | Jim.golf          | premium   | $1,120    | $1,120        | 78             | 28     | 3      | namecheap                           |
 | aliens.golf       | available | $7.99     | —             | 56             | 35     | 6      | name.com                            |
-| plz.golf          | resell    | —         | —             | 72             | 14     | 3      | Domain.com - Network Solutions, LLC |
+| plz.golf          | resell    | —         | —             | 72             | 15     | 3      | Domain.com - Network Solutions, LLC |
 | houses.golf       | premium   | $123.75   | —             | 66             | 18     | 6      | name.com                            |
 | spectra.golf      | available | $7.99     | —             | 62             | 34     | 7      | name.com                            |
 | Cats.golf         | available | $83.98    | —             | 59             | 33     | 4      | namecheap                           |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GOLF One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GOLF One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
