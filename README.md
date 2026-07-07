@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .golf one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,630 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,630 domains · **Median ask:** $17.17 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,630 domains · **Median ask:** $18.29 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/golf`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/golf`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .GOLF one-word domain 
 
 ### Files
 
-- `golf.csv` — public CSV extract (1,000 rows)
-- `golf.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `golf.csv`, public CSV extract (1,000 rows)
+- `golf.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                           |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------------- |
-| neuroscience.golf | available | $7.99     | —             | 80             | 37     | 12     | name.com                            |
-| usa.golf          | resell    | —         | —             | 78             | 46     | 3      | GoDaddy.com, LLC                    |
-| Ryan.golf         | premium   | $1,120    | $1,120        | 60             | 44     | 4      | namecheap                           |
-| football.golf     | available | $7.99     | —             | 86             | 36     | 8      | name.com                            |
-| watch.golf        | resell    | —         | —             | 76             | 37     | 5      | Dynadot Inc                         |
-| justin.golf       | premium   | $1,000    | —             | 58             | 38     | 7      | name.com                            |
-| tokens.golf       | available | $7.99     | —             | 51             | 36     | 6      | name.com                            |
-| stories.golf      | resell    | —         | —             | 58             | 36     | 7      | GoDaddy.com, LLC                    |
-| Jim.golf          | premium   | $1,120    | $1,120        | 78             | 28     | 3      | namecheap                           |
-| aliens.golf       | available | $7.99     | —             | 56             | 35     | 6      | name.com                            |
-| plz.golf          | resell    | —         | —             | 72             | 15     | 3      | Domain.com - Network Solutions, LLC |
-| houses.golf       | premium   | $123.75   | —             | 66             | 18     | 6      | name.com                            |
-| spectra.golf      | available | $7.99     | —             | 62             | 34     | 7      | name.com                            |
-| Cats.golf         | available | $83.98    | —             | 59             | 33     | 4      | namecheap                           |
-| trends.golf       | available | $7.99     | —             | 60             | 32     | 6      | name.com                            |
-| spaces.golf       | available | $7.99     | —             | 54             | 30     | 6      | name.com                            |
-| forms.golf        | available | $7.99     | —             | 54             | 28     | 5      | name.com                            |
-| bees.golf         | available | $7.99     | —             | 54             | 27     | 4      | name.com                            |
-| trades.golf       | available | $7.99     | —             | 71             | 26     | 6      | name.com                            |
-| sites.golf        | available | $7.99     | —             | 53             | 26     | 5      | name.com                            |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| aid.golf   | available | $7.99     | —             | medium         | low    | 3      | name.com          |
+| bay.golf   | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC      |
+| fit.golf   | premium   | $242      | $242          | high           | medium | 3      | namesilo          |
+| ala.golf   | available | $7.99     | —             | high           | low    | 3      | name.com          |
+| big.golf   | resell    | —         | —             | high           | medium | 3      | Dynadot Inc       |
+| Phil.golf  | premium   | $854      | $854          | high           | medium | 4      | namesilo          |
+| ane.golf   | available | $6.98     | $83.98        | low            | low    | 3      | namecheap         |
+| sky.golf   | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
+| blink.golf | premium   | $854      | $854          | high           | medium | 5      | namesilo          |
+| axe.golf   | available | $7.99     | —             | medium         | low    | 3      | name.com          |
+| club.golf  | resell    | —         | —             | high           | low    | 4      | Porkbun LLC       |
+| drive.golf | premium   | $1,000    | —             | high           | low    | 5      | name.com          |
+| BJP.golf   | available | $7.99     | —             | medium         | low    | 3      | name.com          |
+| palm.golf  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc       |
+| major.golf | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo          |
+| btw.golf   | available | $7.99     | —             | high           | low    | 3      | name.com          |
+| elite.golf | resell    | —         | —             | high           | medium | 5      | Dynadot Inc       |
+| sport.golf | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo          |
+| dew.golf   | available | $7.99     | —             | medium         | low    | 3      | name.com          |
+| short.golf | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 34 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .golf domains. That makes the key question less about category fit and more about name quality inside a niche extension. Strong options tend to be short, easy to say, and easy to remember. Names like stretch.golf or teamwork.golf are clear and flexible, while names tied to famous brands, public figures, or loaded meanings can carry more legal or commercial risk. With a median ask of 17.17, pricing may look accessible, but renewal cost and real end-user fit still matter. When comparing these domains, favor clean wording, broad golf relevance, and low trademark exposure.
+This set of one-word .golf domains includes compound-name entries like primarycare.golf, neuroscience.golf, and solarpower.golf, alongside more playful names such as roastbeef.golf and letitalone.golf. With a median ask near $18, most names in this selection are inexpensive enough to acquire directly, whether the goal is holding for resale or launching a golf-related brand. Because .golf is a niche extension, evaluating spelling clarity, word recognition, and renewal cost matters more than chasing generic terms alone. Reviewing several options side by side helps separate genuinely brandable names from filler compounds.
 
-- All results use the .golf extension
-- 11,625 one-word domains in this selection
-- Median ask across the set is 17.17
-- Check trademark risk before choosing a name
+- 11,630+ one-word .golf domains in this selection
+- Median ask near $18 across listed names
+- Compound-word style names, from health to food to phrases
+- Niche .golf extension suited to golf-related brands and projects
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GOLF One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GOLF One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
