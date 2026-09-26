@@ -1,10 +1,10 @@
-# Available .GOLF One-Word Domains (31,164)
+# Available .GOLF One-Word Domains (21,355)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C164%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C355%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .golf one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,164 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **21,355 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,164 domains · **Median ask:** $10.98 · **High-demand under $2,500:** 3
+**Public extract:** 1,000 rows · **Live catalog:** 21,355 domains · **Median ask:** $15.61 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/golf`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| aid.golf   | available | $7.99     | —             | high           | low    | 3      | name.com          |
-| men.golf   | resell    | $7.99     | —             | high           | low    | 3      | Porkbun LLC       |
-| lp.golf    | premium   | $242      | $242          | high           | low    | 3      | namesilo          |
-| ala.golf   | available | $7.99     | —             | high           | low    | 3      | name.com          |
-| ada.golf   | resell    | —         | —             | high           | medium | 3      | Dynadot Inc       |
-| sam.golf   | premium   | $854      | $854          | high           | medium | 3      | namesilo          |
-| ane.golf   | available | $6.98     | $83.98        | high           | low    | 3      | namecheap         |
-| bay.golf   | resell    | —         | —             | high           | low    | 3      | Dynadot Inc       |
-| tel.golf   | premium   | $854      | $854          | high           | low    | 3      | namesilo          |
-| aug.golf   | available | $6.98     | $83.98        | high           | low    | 3      | namecheap         |
-| sky.golf   | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
-| jack.golf  | premium   | $854      | $854          | high           | medium | 4      | namesilo          |
-| axe.golf   | available | $7.99     | —             | high           | low    | 3      | name.com          |
-| palm.golf  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc       |
-| jazz.golf  | premium   | $854      | $854          | high           | low    | 4      | namesilo          |
-| bjp.golf   | available | $7.99     | —             | high           | low    | 3      | name.com          |
-| token.golf | resell    | —         | —             | high           | medium | 5      | Dynadot Inc       |
-| matt.golf  | premium   | $854      | $854          | high           | high   | 4      | namesilo          |
-| btw.golf   | available | $7.99     | —             | high           | low    | 3      | name.com          |
-| truth.golf | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC - 17 |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| ago.golf     | available | $7.49     | $64.99        | high           | low    | 3      | namesilo         |
+| hub.golf     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
+| fit.golf     | premium   | $260      | $260          | high           | medium | 3      | namecheap        |
+| ang.golf     | available | $6.98     | $83.98        | high           | low    | 3      | namecheap        |
+| new.golf     | resell    | —         | —             | high           | medium | 3      | —                |
+| kim.golf     | premium   | $1,040    | $1,040        | high           | low    | 3      | namecheap        |
+| btw.golf     | available | $7.99     | —             | high           | low    | 3      | name.com         |
+| red.golf     | resell    | —         | —             | high           | medium | 3      | —                |
+| bill.golf    | premium   | $854      | $854          | high           | low    | 4      | namesilo         |
+| chu.golf     | available | $7.49     | $64.99        | medium         | low    | 3      | namesilo         |
+| xxx.golf     | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
+| kids.golf    | premium   | $1,040    | $1,040        | high           | low    | 4      | namecheap        |
+| cpi.golf     | available | $7.49     | $64.99        | high           | low    | 3      | namesilo         |
+| auto.golf    | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.  |
+| paris.golf   | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo         |
+| esp.golf     | available | $7.49     | $64.99        | high           | low    | 3      | namesilo         |
+| josh.golf    | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
+| augusta.golf | premium   | $854      | $854          | high           | low    | 7      | namesilo         |
+| him.golf     | available | $7.99     | —             | high           | low    | 3      | name.com         |
+| dicks.golf   | resell    | —         | —             | medium         | low    | 5      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,164 live domains                        |
+| 1,000-row public sample | 21,355 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 3 high-demand names under $2,500           |
+| Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GOLF One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GOLF One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
