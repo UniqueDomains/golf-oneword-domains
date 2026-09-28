@@ -38,6 +38,7 @@ d998742f-13fb-4123-bc63-3c85d61dead7,floury.golf,available,6.98,83.98,medium,low
 f1448443-4c19-4ce0-b72a-7a6f054acc8c,santa.golf,available,7.99,,high,low,5,name.com,,,
 80a64df4-5dba-42ec-aa48-1bbcc19fb749,axes.golf,available,5.98,83.98,low,low,4,namecheap,,,
 9c2fc576-430b-4f12-933b-6ef9fc97022f,blazers.golf,available,7.49,64.99,medium,low,7,namesilo,,,20/09/2026 11:38
+7ba7a625-f175-49da-b1b3-7a3a4420b32a,otto.golf,available,7.49,64.99,high,medium,4,namesilo,,,28/09/2026 04:33
 22ab8e10-6f1c-4f4b-9e64-026b7ce9515d,fort.golf,available,7.99,,high,low,4,name.com,,,
 1d257526-bd49-495d-8e09-aed123d2ad8c,winthrop.golf,available,4.5,53.72,high,low,8,dynadot,,,27/09/2026 19:50
 aefc3827-f6f9-4a45-b15f-5c64b60600f9,goosebumps.golf,available,7.49,64.99,medium,low,10,namesilo,,,19/09/2026 00:04
@@ -130,6 +131,7 @@ a6068caf-f10a-4ad3-993c-397903d83611,clausal.golf,available,6.98,83.98,medium,lo
 62ebe19a-a7e4-4998-93dc-dd05ea93b9b2,acerbic.golf,available,6.98,83.98,medium,low,7,namecheap,,,
 54f89d4b-2d9c-4973-bed8-80dabcaa4b10,notional.golf,available,6.98,83.98,high,low,8,namecheap,,,12/08/2026 20:01
 8e0dfb90-752c-4db7-b8bc-e40f0e9e6ed4,canteen.golf,available,7.49,64.99,high,low,7,namesilo,,,24/09/2026 12:09
+a84c28aa-e61b-40e7-882f-f396514e6b6a,sinking.golf,available,6.41,51.95,medium,low,7,spaceship,,,28/09/2026 06:45
 43770f32-0945-449f-a546-6b04799a1270,criticism.golf,available,7.99,,high,low,9,name.com,,,
 ccce12c4-2ff8-41e4-ad58-a338137af197,indelible.golf,available,6.98,83.98,high,low,9,namecheap,,,22/08/2026 02:37
 66032e9d-b638-4e07-9650-d87f5549a7dc,faraway.golf,available,6.98,83.98,high,low,7,namecheap,,,17/08/2026 22:14
@@ -153,6 +155,8 @@ abb1dbc0-e641-452b-89c7-6336d75cb408,conception.golf,available,7.49,64.99,high,l
 24d6fc5c-c0f5-47f1-a744-9f830a42454c,lullaby.golf,available,6.98,83.98,high,low,7,namecheap,,,23/09/2026 09:09
 f356fc37-0b17-461d-9787-e5417be9b4ee,arranged.golf,available,7.49,64.99,high,low,8,namesilo,,,22/09/2026 08:25
 7500b88c-f45a-48b9-8e6f-5c76fbe0cd9c,acadia.golf,available,6.98,83.98,medium,low,6,namecheap,,,16/09/2026 20:28
+c42c9784-9923-48d6-8ec3-1543546224c2,randall.golf,available,7.49,64.99,high,low,7,namesilo,,,28/09/2026 04:02
+0655eef4-a6e2-4bc2-ac7c-d483b8b61b3b,investigator.golf,available,7.49,64.99,high,low,12,namesilo,,,28/09/2026 03:35
 8bc6f21b-e567-41d0-8f4e-f550a72f6444,such.golf,available,6.41,51.95,high,low,4,spaceship,,,28/09/2026 01:50
 f49c9322-38ea-4606-aed3-c9aee07f7fe5,haifa.golf,available,7.49,64.99,high,low,5,namesilo,,,28/09/2026 02:03
 c13b61ed-0747-405c-8a6d-ba7dd8b62859,eerie.golf,available,6.98,83.98,high,low,5,namecheap,,,15/08/2026 12:43
@@ -161,6 +165,7 @@ a3e7dfe9-9200-496f-a0bf-3f349d843efa,marduk.golf,available,6.98,83.98,medium,low
 97e6bfb7-6979-472b-9648-9d291510bd58,amazona.golf,available,7.49,64.99,medium,low,7,namesilo,,,18/09/2026 16:23
 ae79b8c9-e78c-48d1-8d77-10411cc3d99b,weighted.golf,available,6.98,83.98,high,low,8,namecheap,,,13/09/2026 10:08
 328dd5e9-7346-4667-a330-1b885c3d3e9c,bully.golf,available,6.98,83.98,high,low,5,namecheap,,,08/08/2026 12:15
+90d1dc09-5b45-4535-8c84-6ee8ac54ce83,detect.golf,available,6.41,51.95,high,low,6,spaceship,,,28/09/2026 06:30
 f2ef543f-25eb-4ba0-bf1e-79bc16f6e869,slapstick.golf,available,6.98,83.98,high,low,9,namecheap,,,10/09/2026 10:03
 a6dd4692-9e8d-4f5e-a353-c4ab41aa463e,demode.golf,available,6.98,83.98,medium,low,6,namecheap,,,14/08/2026 01:13
 ab5f2a36-5aa1-4650-b36b-564626afd016,farcical.golf,available,6.98,83.98,medium,low,8,namecheap,,,17/08/2026 22:30
@@ -169,11 +174,13 @@ f3d86843-eff8-4876-aea4-fc9d295ccf50,oversea.golf,available,6.98,83.98,medium,lo
 a12d19c1-4f1e-47d2-8d9b-5eb25f6bc599,untrue.golf,available,7.49,64.99,medium,low,6,namesilo,,,26/09/2026 03:18
 62229dec-97ef-476b-b36c-0e18ccb0253a,eulogistic.golf,available,6.98,83.98,medium,low,10,namecheap,,,16/08/2026 23:07
 3c62ceab-b2ab-404c-9cd2-041c738538a2,entrancing.golf,available,6.98,83.98,medium,low,10,namecheap,,,09/08/2026 18:23
+5cd5b626-2a87-4134-a3db-2126e2c7fb1b,julien.golf,available,50.2,50.2,high,low,6,cloudflare,,,28/09/2026 03:56
 4f142a9a-273c-4169-9c76-40d3cbf5d29f,washout.golf,available,6.98,83.98,medium,low,7,namecheap,,,14/08/2026 20:57
 b314c1b6-5455-46bc-83ff-9b87953d1dbb,cattleman.golf,available,6.98,83.98,high,low,9,namecheap,,,23/09/2026 00:40
 d9934b28-8efa-4b49-b4a5-4eeeba07cae2,anita.golf,available,7.49,64.99,high,low,5,namesilo,,,25/09/2026 15:32
 5a790d55-b301-4ddf-bf5f-5b14849d0f7d,ethiopian.golf,available,6.98,83.98,high,low,9,namecheap,,,17/08/2026 13:47
 e59b2e2e-679c-4f1d-9db8-f6c1c0cf5f0b,acervate.golf,available,6.98,83.98,medium,low,8,namecheap,,,
+c6843ce3-b075-4f53-9b3b-9676c0aa3886,wwii.golf,available,7.49,64.99,medium,low,4,namesilo,,,28/09/2026 07:36
 88fb3598-a083-4df5-9f7a-546264db8f68,forced.golf,available,6.98,83.98,high,low,6,namecheap,,,23/09/2026 21:10
 349a0c62-96f2-4130-8630-2db4f19a122b,willie.golf,available,6.98,83.98,medium,low,6,namecheap,,,25/09/2026 11:47
 7cb113e4-a54c-4b2e-a285-8966f015481c,thyroid.golf,available,6.98,83.98,high,low,7,namecheap,,,11/09/2026 15:18
@@ -246,7 +253,7 @@ c24229ce-f42c-4e96-8fdd-599bbc1577e7,sunblind.golf,available,6.98,83.98,medium,l
 d829150e-9729-4572-9eed-f6a85c9d9878,peach.golf,available,6.98,83.98,high,low,5,namecheap,,,22/08/2026 16:45
 e6b2ebcf-f751-4081-b1e7-cc66b7acde54,zanzibar.golf,available,7.99,,high,low,8,name.com,,,
 4d49972d-ed89-45af-bc0c-e65f4c2c3aff,steaming.golf,available,6.98,83.98,medium,low,8,namecheap,,,10/09/2026 19:42
-a533b246-6203-435d-b1c2-ffa840dc3b32,revenues.golf,available,7.49,64.99,medium,low,8,namesilo,,,25/09/2026 09:02
+a533b246-6203-435d-b1c2-ffa840dc3b32,revenues.golf,available,7,64.99,medium,low,8,unstoppable,,,28/09/2026 04:22
 c084c49b-9413-4dfd-ae73-5f22e9603dfa,airline.golf,available,7.99,,high,low,7,name.com,,,
 55d8ea44-9540-442a-a262-4c566d7f202d,homelike.golf,available,6.98,83.98,medium,low,8,namecheap,,,21/08/2026 11:03
 e395e60d-89a9-4a8e-9732-881865fddc6e,adamant.golf,available,6.98,83.98,high,low,7,namecheap,,,
@@ -254,6 +261,7 @@ f72b10d4-97f4-4ab1-801e-36152593ecd1,mischief.golf,available,7.49,64.99,high,low
 8fd2cad0-4938-4586-b70e-3ed6b4cde22c,perceiver.golf,available,6.98,83.98,high,low,9,namecheap,,,08/09/2026 16:18
 9d688a39-ba9e-416b-9ac9-02d9126e9fc5,children.golf,available,7.99,,high,low,8,name.com,,,
 16f49843-8512-41ea-ac5f-8a1e5b266afa,unwashed.golf,available,6.98,83.98,medium,low,8,namecheap,,,08/09/2026 21:02
+aba88f64-8d2d-47e7-a89f-d5c17df5e268,olaf.golf,available,4.63,52.01,medium,low,4,porkbun,,,28/09/2026 07:48
 e1be68ca-bfa6-4d40-9443-322112e196dc,listless.golf,available,6.98,83.98,medium,low,8,namecheap,,,14/08/2026 12:00
 34b2e1eb-b700-46e7-9bac-c60c2fb00a63,marino.golf,available,7.49,64.99,high,low,6,namesilo,,,27/09/2026 04:14
 95ac0ae6-83ac-4b3b-be02-419425f35175,homophile.golf,available,6.98,83.98,medium,low,9,namecheap,,,18/08/2026 20:56
@@ -262,6 +270,7 @@ e1be68ca-bfa6-4d40-9443-322112e196dc,listless.golf,available,6.98,83.98,medium,l
 6839ee4b-09b9-4d61-8782-0f933b2c7a77,debate.golf,available,7.49,64.99,high,low,6,namesilo,,,24/09/2026 05:29
 3699e355-0897-4a2e-9884-1b9c35b72f21,tearless.golf,available,6.98,83.98,medium,low,8,namecheap,,,14/08/2026 20:31
 9ba99774-224d-400e-89f4-5a6d98e2eb1f,anymore.golf,available,7.99,,high,low,7,name.com,,,
+2dcb42d2-c5bf-4432-bfe1-a3853d71dc08,articles.golf,available,6.41,51.95,high,low,8,spaceship,,,28/09/2026 04:25
 cf141268-946c-4c2c-a13b-ecc4234d8ae4,chancy.golf,available,6.98,83.98,medium,low,6,namecheap,,,12/08/2026 01:41
 c17257cd-afeb-449e-bf0b-8eef761e6ba8,kim.golf,premium,1040,1040,high,low,3,namecheap,,,25/09/2026 19:17
 2e80c69c-f71d-4552-81d6-e3dff3d6d444,mongol.golf,available,6.98,83.98,high,low,6,namecheap,,,25/08/2026 04:45
@@ -275,6 +284,7 @@ caac6723-1b09-4d76-9117-ea566b83053d,amorist.golf,available,7.49,64.99,medium,lo
 289fc364-1c56-41dd-a806-4a8782456a6b,caesar.golf,available,6.98,83.98,high,low,6,namecheap,,,27/09/2026 03:27
 7ab61e2d-2b6f-48b8-a716-53c98e0af7a7,exclaims.golf,available,6.98,83.98,medium,low,8,namecheap,,,19/09/2026 23:36
 078a0f7c-ebee-43e6-a79f-1437f7652da9,marble.golf,available,7.99,,high,low,6,name.com,,,
+5a6e69db-c675-488b-b923-ab620839dec5,revolutionary.golf,available,6.98,83.98,high,low,13,namecheap,,,28/09/2026 07:08
 61c72917-42d6-4c2b-b824-7e41ead6b456,graspable.golf,available,6.98,83.98,medium,low,9,namecheap,,,06/08/2026 08:18
 86eb01c3-1ac8-468a-927b-252543354092,loftily.golf,available,6.98,83.98,medium,low,7,namecheap,,,15/09/2026 12:38
 53b3d9a3-26bb-4cfa-8912-517f1f1eec23,tortuous.golf,available,6.98,83.98,medium,low,8,namecheap,,,11/09/2026 18:01
@@ -303,6 +313,7 @@ b9aea61b-1b6b-48b9-aace-f2bd1ca722f2,baldness.golf,available,6.98,83.98,medium,l
 40efb858-ce69-4f70-bff9-b780f5cbd30e,doubter.golf,available,6.98,83.98,medium,low,7,namecheap,,,
 b1849976-97d6-41db-b765-ea24aee73dc1,trapped.golf,available,6.98,83.98,medium,low,7,namecheap,,,07/08/2026 11:08
 c0639964-2f02-4034-8c97-92adc9610cae,hook.golf,available,7.99,,high,low,4,name.com,,,
+927cacd0-5472-4b29-8b17-48a2cadd95f0,stacy.golf,premium,854,854,high,low,5,namesilo,,,28/09/2026 07:44
 3b8b4482-3eb3-43db-b0d0-62bb1633b1d4,bound.golf,available,7.49,64.99,high,low,5,namesilo,,,22/09/2026 07:27
 e7a7e4cd-bd7d-4baf-a223-b164201eb78c,favorably.golf,available,6.98,83.98,medium,low,9,namecheap,,,14/09/2026 18:00
 9e7c5d11-8ab5-4972-8674-ce6467ba0ac4,updated.golf,available,6.98,83.98,medium,low,7,namecheap,,,18/09/2026 06:09
@@ -316,6 +327,7 @@ e1f50467-7cb1-44ff-a9e1-05e6e5bf88eb,include.golf,available,7.99,,high,low,7,nam
 4a0a2f3e-7896-466e-b3c6-2c6dbafc714f,philadelphia.golf,premium,242,242,high,low,12,namesilo,,,
 9084272d-c60b-493c-9fb4-f343f9f470a9,confusing.golf,available,6.98,83.98,high,low,9,namecheap,,,23/09/2026 20:14
 fcc2d9b9-c9d8-4f98-95cc-522cb58013c6,paranoiac.golf,available,6.98,83.98,medium,low,9,namecheap,,,08/09/2026 01:08
+a86f727e-c0aa-46a8-b1ae-7f83e6061c31,acquainted.golf,available,6.41,51.95,high,low,10,spaceship,,,28/09/2026 07:02
 e4600a00-eff8-4f77-9ceb-35ee69835a06,revokable.golf,available,6.98,83.98,medium,low,9,namecheap,,,09/09/2026 16:23
 8e25bc08-009b-4a94-8bb4-1b1713e8c9e4,husbandry.golf,available,6.98,83.98,high,low,9,namecheap,,,17/08/2026 22:35
 c7239e6b-e819-4966-ae75-e47527982411,perilous.golf,available,6.98,83.98,medium,low,8,namecheap,,,08/09/2026 01:42
@@ -328,6 +340,7 @@ a7b020ef-fe16-4c53-8325-7029def4d28b,edited.golf,available,6.98,83.98,high,low,6
 72625f7c-d737-45ca-98c4-1418779da035,elephant.golf,available,7.49,64.99,high,low,8,namesilo,,,25/09/2026 22:36
 a0fbb96b-3b0b-4609-bda4-d17ce04945ef,dais.golf,available,7.49,64.99,high,low,4,namesilo,,,18/09/2026 17:12
 f6a0f6ca-cacf-4388-8271-aa9d3f5c3dca,unshackled.golf,available,6.98,83.98,medium,low,10,namecheap,,,12/09/2026 04:58
+8f88165b-0136-451f-aece-012cb6549626,schroeder.golf,available,6.41,51.95,high,low,9,spaceship,,,28/09/2026 08:07
 a0b7a581-6a8c-4b4a-89a7-addd883d2b58,temerity.golf,available,7.49,64.99,medium,low,8,namesilo,,,21/09/2026 02:48
 e6a01c9b-0c02-4fc5-ac82-670d17fc01a9,patched.golf,available,6.98,83.98,medium,low,7,namecheap,,,08/09/2026 10:18
 369f8398-c262-42a2-aa7f-fb25b00f6964,juan.golf,available,50.2,50.2,high,low,4,cloudflare,,,27/09/2026 18:50
@@ -358,7 +371,7 @@ ae64f5ce-82a0-4c5c-b7e5-d97e2c49127c,perplexed.golf,available,6.98,83.98,medium,
 d363da3b-0077-499b-9e6c-b0b8fdf5a0b4,tertiary.golf,available,6.98,83.98,medium,low,8,namecheap,,,
 38420877-a2eb-42a5-8642-818f647ae403,agrology.golf,available,6.98,83.98,medium,low,8,namecheap,,,17/09/2026 19:36
 aea98b10-6fa1-4285-a735-1c24edc17613,vegetative.golf,available,6.98,83.98,medium,low,10,namecheap,,,13/09/2026 01:44
-821b60fe-f01e-492e-9354-7b8a4851fc74,engaging.golf,available,6.98,83.98,high,low,8,namecheap,,,17/08/2026 07:36
+821b60fe-f01e-492e-9354-7b8a4851fc74,engaging.golf,available,7.49,64.99,high,low,8,namesilo,,,28/09/2026 07:52
 0d138684-2367-4030-92bf-a2a1cd26ea26,tawdry.golf,available,6.98,83.98,medium,low,6,namecheap,,,12/08/2026 03:29
 537e96e6-ab18-4d60-9e79-b438492ae271,extension.golf,available,7.99,,high,low,9,name.com,,,
 ddd4253b-dcbf-4914-a2e2-3d23f580ee29,purchasing.golf,available,7.49,64.99,high,low,10,namesilo,,,24/09/2026 11:23
@@ -381,7 +394,6 @@ e3b8a7b2-dfab-4694-8062-10de10a655ef,mickey.golf,available,7.99,84.99,high,low,6
 f4cc0333-c73c-4b5b-b2b1-e37db17e2bef,errors.golf,available,7.49,64.99,medium,low,6,namesilo,,,17/09/2026 17:09
 c6bd9dc3-fdfe-41f4-9d0a-e4749b17188c,bayard.golf,available,6.98,83.98,medium,low,6,namecheap,,,22/09/2026 17:54
 71cf908c-03ba-4367-94b2-2c9192f0af49,slyly.golf,available,6.98,83.98,medium,low,5,namecheap,,,14/09/2026 09:08
-b4edd6a9-5b7b-492e-bf63-024efdf0b447,loop.golf,available,,,high,high,4,,,,
 6debceec-9ba2-49c6-ae6a-98052d7c7fba,ago.golf,available,7.49,64.99,high,low,3,namesilo,,,21/09/2026 23:15
 850fb8f9-7e7e-4013-ba6c-7c0dba6c54d5,leaded.golf,available,6.98,83.98,medium,low,6,namecheap,,,22/08/2026 21:42
 5ae1f218-6366-44ee-86bc-90663e20b117,precarious.golf,available,6.98,83.98,medium,low,10,namecheap,,,08/09/2026 01:44
@@ -434,7 +446,7 @@ f9aac59b-8642-4b67-86ff-a799713a44a0,rheumatic.golf,available,6.98,83.98,medium,
 2829d976-e978-4196-b963-4ee73421d843,heartthrob.golf,available,7.99,,high,low,10,name.com,,,
 a57a5315-05d0-4df3-9eab-dfa69efd8e6c,knockdown.golf,available,6.98,83.98,medium,low,9,namecheap,,,22/08/2026 16:34
 e399a861-15a8-44da-9ce7-fe80bdd40d23,anabolic.golf,available,6.98,83.98,medium,low,8,namecheap,,,
-3e2dbfce-b301-4eb6-84d7-91555b6f4490,cooperation.golf,available,7.99,,high,low,11,name.com,,,
+3e2dbfce-b301-4eb6-84d7-91555b6f4490,cooperation.golf,available,50.2,50.2,high,low,11,cloudflare,,,28/09/2026 04:34
 e100abf7-086d-49dd-9e81-5016f90e3f94,ladylike.golf,available,6.98,83.98,high,low,8,namecheap,,,22/08/2026 18:38
 749d06df-7cf1-43f1-9439-8f9f4368055c,bookmark.golf,available,7.49,64.99,high,low,8,namesilo,,,24/09/2026 07:12
 001cd1cb-f022-4bc1-aee3-bb0ae71bf026,introductions.golf,available,6.98,83.98,medium,low,13,namecheap,,,20/09/2026 22:09
@@ -446,7 +458,7 @@ fc45ed69-ef7d-4e68-a97b-1e6f37a87fd3,pinked.golf,available,6.98,83.98,medium,low
 1518d295-c414-494b-91a6-e0602ef5b2e2,garrulous.golf,available,6.98,83.98,medium,low,9,namecheap,,,12/08/2026 03:20
 1f96f99a-5909-4847-a16b-1aa8e669e383,disorderly.golf,available,6.98,83.98,medium,low,10,namecheap,,,14/08/2026 11:51
 dc9b0b54-b8b0-435e-b919-b5ae166f19a3,tenuous.golf,available,6.98,83.98,medium,low,7,namecheap,,,11/09/2026 11:41
-5d8be88c-be53-458c-8692-8f70a78ac898,creation.golf,available,7.49,64.99,high,low,8,namesilo,,,25/09/2026 03:23
+5d8be88c-be53-458c-8692-8f70a78ac898,creation.golf,available,50.2,50.2,high,low,8,cloudflare,,,28/09/2026 03:53
 e3d24ceb-c412-43c5-b6ed-626f93443edc,reinforced.golf,available,6.98,83.98,high,low,10,namecheap,,,23/09/2026 10:25
 a51d29eb-40cb-4d9d-a5df-b66f38efe08d,arctangent.golf,available,7.49,64.99,medium,low,10,namesilo,,,20/09/2026 01:30
 2ef64924-9b2d-4114-889a-eb82fc8f9469,beldame.golf,available,7.49,64.99,medium,low,7,namesilo,,,23/09/2026 04:46
@@ -467,6 +479,7 @@ ed230927-e0f1-46a6-bf9d-6a5c6b6f760e,urged.golf,available,7.49,64.99,medium,low,
 13f1036a-219a-44be-a212-1b691f783b60,sherman.golf,available,6.98,83.98,high,low,7,namecheap,,,25/09/2026 09:27
 5c46d249-7a32-425d-94e6-3f3e0f78b4de,messenger.golf,available,6.98,83.98,high,low,9,namecheap,,,24/09/2026 18:45
 395968e5-76c7-4f6f-8aa2-ccb9314b25b5,reporters.golf,available,7.49,64.99,medium,low,9,namesilo,,,28/09/2026 00:38
+413ce9cc-14e8-4913-9151-1b6c2e44a06b,billie.golf,available,6.41,51.95,medium,low,6,spaceship,,,28/09/2026 07:55
 220dd582-e62a-44e2-a0ae-233d8d6ffee4,transfixed.golf,available,6.98,83.98,medium,low,10,namecheap,,,17/08/2026 22:56
 9b9d33b7-ba1e-423f-9ce9-94205abcd5f4,cytherea.golf,available,7.49,64.99,medium,low,8,namesilo,,,19/09/2026 17:16
 b0e25420-8737-49ac-8b71-494ab1626285,regularly.golf,available,6.98,83.98,medium,low,9,namecheap,,,15/09/2026 17:25
@@ -483,6 +496,7 @@ fbbe58fd-83ef-451f-b629-b3428794c37e,ruffle.golf,available,6.98,83.98,high,low,6
 26bc099e-ee29-4c0f-b4d4-7717223fa94d,bimbo.golf,available,7.49,64.99,medium,low,5,namesilo,,,23/09/2026 16:54
 d3c04c6d-ab62-4fde-abd6-a005f66d7eac,climbing.golf,available,7.49,64.99,high,low,8,namesilo,,,24/09/2026 15:41
 9524ca79-f424-42bd-956a-bb921c63db19,cherimoya.golf,available,7.49,64.99,medium,low,9,namesilo,,,19/09/2026 10:32
+6040b87b-3a20-45d0-a3f7-7ecc9add6093,girard.golf,available,50.2,50.2,high,low,6,cloudflare,,,28/09/2026 05:50
 eb5efffa-f85c-434b-939e-62360e1a417f,windward.golf,available,6.98,83.98,high,low,8,namecheap,,,13/09/2026 12:22
 b56b4f8f-9741-4f49-94a7-69330952f3b4,lovingly.golf,available,6.98,83.98,high,low,8,namecheap,,,14/09/2026 19:14
 359cb2a4-0c73-428e-a339-4bad69a3b3ce,sensed.golf,available,6.98,83.98,high,low,6,namecheap,,,08/09/2026 16:07
@@ -496,7 +510,7 @@ a3afec58-5668-45a3-93ec-c6c8f45f1b36,teenager.golf,available,7.99,84.99,high,low
 0e4759a9-1b4f-4f56-9bfa-9ec200c3dce4,tellurium.golf,available,7.49,64.99,medium,low,9,namesilo,,,20/09/2026 23:13
 72a3547b-e599-41a6-ab11-4df31c5c9aa5,ataraxic.golf,available,6.98,83.98,low,low,8,namecheap,,,07/08/2026 12:49
 c32a810b-cca0-4830-a24a-081351339afb,pearly.golf,available,6.98,83.98,high,low,6,namecheap,,,08/09/2026 11:21
-1fea99b3-f39a-4264-a3f5-f3beb43bfe48,integrate.golf,available,7.49,64.99,high,low,9,namesilo,,,24/09/2026 06:03
+1fea99b3-f39a-4264-a3f5-f3beb43bfe48,integrate.golf,available,7,64.99,high,low,9,unstoppable,,,28/09/2026 06:58
 00a1af45-56e4-4d26-9b39-eca5aff014df,sopranino.golf,available,6.98,83.98,medium,low,9,namecheap,,,10/09/2026 14:22
 997d6ab7-34a5-4b8d-abcf-eb71c0b89051,annotated.golf,available,7.99,,high,low,9,name.com,,,
 98e96385-ba0c-4436-babe-2fdf8955adac,articled.golf,available,6.98,83.98,medium,low,8,namecheap,,,06/08/2026 08:28
@@ -517,10 +531,10 @@ a39fd239-b8f1-47ce-b4b4-a5db6b2bad3e,famished.golf,available,6.98,83.98,medium,l
 08fba97f-7526-4d27-bd47-4f4cc0d34187,material.golf,available,7.49,64.99,high,low,8,namesilo,,,23/09/2026 23:27
 ad835a37-30f6-4c6b-9841-edc719841940,camwood.golf,available,7.49,64.99,medium,low,7,namesilo,,,17/09/2026 15:22
 a106d720-7a66-405c-9455-7b1ebf17906d,blench.golf,available,6.98,83.98,medium,low,6,namecheap,,,04/09/2026 23:29
-dcc13d73-eaff-4a29-9764-75c4b723425e,beverage.golf,available,6.98,83.98,high,low,8,namecheap,,,23/09/2026 19:28
+dcc13d73-eaff-4a29-9764-75c4b723425e,beverage.golf,available,7.49,64.99,high,low,8,namesilo,,,28/09/2026 05:24
 a6b35dc7-2cab-4ed5-a3eb-921da34f7391,beatified.golf,available,6.98,83.98,medium,low,9,namecheap,,,09/08/2026 05:53
 61dd954b-e650-4e5a-b5f4-6d0ba139030c,broody.golf,available,6.98,83.98,medium,low,6,namecheap,,,11/08/2026 05:54
-c39bf5e0-82c9-481f-aab2-deb5ca93852f,inventive.golf,available,6.98,83.98,high,low,9,namecheap,,,21/08/2026 20:18
+c39bf5e0-82c9-481f-aab2-deb5ca93852f,inventive.golf,available,6.41,51.95,high,low,9,spaceship,,,28/09/2026 05:59
 695ca930-f81e-4afd-928b-e66cb2e5c705,idler.golf,available,6.98,83.98,medium,low,5,namecheap,,,14/08/2026 14:10
 f43081d1-0bdc-49d8-9e45-f7e3a91a9510,flashily.golf,available,6.98,83.98,medium,low,8,namecheap,,,14/09/2026 18:54
 72beadb8-8b2e-42da-a0b6-7cfffcc732d1,clump.golf,available,6.98,83.98,high,low,5,namecheap,,,11/09/2026 15:08
@@ -574,12 +588,13 @@ cf8fb5f7-fcf4-4902-ad52-4a3830406e7c,afoot.golf,available,6.98,83.98,medium,low,
 0e6f0a53-9104-4e0d-b283-95cd16b31d4a,mortgages.golf,available,6.98,83.98,medium,low,9,namecheap,,,20/09/2026 00:45
 59730b1e-80ad-43f4-a717-fb55f076a0ee,newspaper.golf,available,7.99,,high,low,9,name.com,,,
 fc2cb608-2f6b-4158-b131-f0805f29f384,familiar.golf,available,6.98,83.98,high,low,8,namecheap,,,24/09/2026 16:30
-00ff856c-6fa2-4c17-a58a-855584d691ac,cell.golf,available,7.99,,high,low,4,name.com,,,
+00ff856c-6fa2-4c17-a58a-855584d691ac,cell.golf,available,6.41,51.95,high,low,4,spaceship,,,28/09/2026 05:42
 3ec40753-f2a6-4fee-a44d-13ac1232a849,gates.golf,available,7.99,,high,low,5,name.com,,,
 c9c2a20d-5d20-4fdc-9e3c-e3cd59ab6c04,measurable.golf,available,6.98,83.98,high,low,10,namecheap,,,24/08/2026 18:27
 92c6338d-febe-481f-8557-ed61c7e0a78c,blackbuck.golf,available,7.49,64.99,medium,low,9,namesilo,,,19/09/2026 14:39
 711e65f5-866e-429d-91a5-d2ae5e853183,asch.golf,available,7.49,64.99,high,low,4,namesilo,,,20/09/2026 13:15
 84c75957-f576-4c13-a74b-c5cb9ca3c7b1,draped.golf,available,6.98,83.98,medium,low,6,namecheap,,,14/08/2026 18:23
+a60bdc44-69a7-4511-8277-5bf97885ce3d,katherine.golf,premium,828.2,828.2,high,low,9,spaceship,,,28/09/2026 03:49
 1efdee5a-d130-494f-b42a-b66a1d143bc5,remainder.golf,available,6.98,83.98,high,low,9,namecheap,,,09/09/2026 15:03
 d422b8c8-2064-47c9-bdcd-255e44e07e3e,omdurman.golf,available,7.49,64.99,medium,low,8,namesilo,,,22/09/2026 15:32
 6db5eb86-1465-401f-aeb6-933cf5320a59,suspend.golf,available,7.99,,high,low,7,name.com,,,
@@ -625,7 +640,6 @@ c94a7e92-475e-444b-a115-4b5548502143,blenheim.golf,available,7.49,64.99,medium,l
 639dd932-f9dd-4e86-b755-3f6025127deb,visionary.golf,available,6.98,83.98,high,low,9,namecheap,,,13/09/2026 06:13
 003031a2-7fb7-4842-9177-940bbd29e9f1,middletown.golf,available,50.2,50.2,medium,low,10,cloudflare,,,27/09/2026 21:20
 af1b37f4-d3e0-452e-81c8-9842376c05a4,argonne.golf,available,7.49,64.99,medium,low,7,namesilo,,,20/09/2026 04:36
-a09959ea-ed0e-4566-bfd8-6b5aeae8beba,adeptness.golf,available,7.49,64.99,high,low,9,namesilo,,,24/09/2026 07:48
 784d72c2-25df-4499-b6b0-9e41d75789ee,sociably.golf,available,6.98,83.98,medium,low,8,namecheap,,,14/09/2026 22:21
 565f44e1-f581-4086-a002-475d461912e2,bath.golf,available,7.99,,high,low,4,name.com,,,
 82754050-afdf-42f7-bdff-efa8e3ea811f,isthmian.golf,available,6.98,83.98,medium,low,8,namecheap,,,22/08/2026 11:34
@@ -657,6 +671,7 @@ c9376956-4b28-4d41-9aa5-9069c3876af8,offenses.golf,available,7.49,64.99,low,low,
 a29cf5fc-c45e-4d3f-877d-5a91bfe5e42d,bedtime.golf,available,7.49,64.99,high,low,7,namesilo,,,22/09/2026 23:43
 48c99130-0aa5-49cd-9e6f-94ca7003c47d,sunstone.golf,available,7.49,64.99,high,low,8,namesilo,,,21/09/2026 09:07
 d1f245fe-6a42-44b1-8045-77392ec82efe,procedure.golf,available,7.49,64.99,high,low,9,namesilo,,,19/09/2026 02:44
+53fd74e7-cb91-44eb-8627-4a9f1fe03ea8,achieve.golf,available,7.49,64.99,high,low,7,namesilo,,,28/09/2026 03:16
 ff25884d-a521-4101-93e3-c632b3f7e1fd,doom.golf,available,6.98,83.98,high,low,4,namecheap,,,24/09/2026 23:34
 9939bfa7-c974-4d19-83e4-fe97ebe78105,detour.golf,available,7.99,,high,low,6,name.com,,,
 2b9269f3-8c98-4fb5-ac78-af8c8439bffe,bygone.golf,available,6.98,83.98,medium,low,6,namecheap,,,11/08/2026 12:06
@@ -732,6 +747,7 @@ ec3a77ac-86c0-4f37-a655-74941d39d1e1,muttering.golf,available,6.98,83.98,medium,
 65084ed6-e061-48ce-8102-9c27535cb9fc,idealistic.golf,available,6.98,83.98,high,low,10,namecheap,,,17/08/2026 15:48
 08c6584e-00ab-4af0-aa99-7a5507a1843a,resurgent.golf,available,6.98,83.98,high,low,9,namecheap,,,09/09/2026 13:53
 fbca0a28-0f88-43c7-8c2c-f0a0a0cb3ab5,scarlet.golf,available,6.98,83.98,high,low,7,namecheap,,,10/08/2026 15:12
+5597d831-6661-4bb2-aa33-1251aeba06cc,trout.golf,available,7.49,64.99,high,low,5,namesilo,,,28/09/2026 06:50
 2a73228a-d1d0-455e-bfa4-af3a449bb8eb,ducktape.golf,available,7.49,64.99,high,low,9,namesilo,,,27/09/2026 08:55
 c2790648-24b7-409d-990f-05f9b03fd4ad,gramophone.golf,available,7.49,64.99,high,low,10,namesilo,,,17/09/2026 02:30
 a34667d3-fb47-4d44-a665-c08d57d0e634,cpi.golf,available,7.49,64.99,high,low,3,namesilo,,,25/09/2026 22:02
@@ -763,6 +779,7 @@ b51a98f5-c061-4836-a25e-7be474d40346,student.golf,available,83.98,,high,low,7,na
 bae94efa-58fc-434a-a4d4-0cb728c2328a,auspice.golf,available,6.98,83.98,high,low,7,namecheap,,,21/09/2026 04:36
 da22baaf-d969-4075-89d6-0f55e2b83ccc,reversive.golf,available,6.98,83.98,medium,low,9,namecheap,,,09/09/2026 16:11
 cbae6755-4402-4127-9af1-0e1411bdde7c,iambic.golf,available,6.98,83.98,medium,low,6,namecheap,,,21/08/2026 17:28
+e4af5d8d-fdd2-4b8f-b718-3cbd47cf867d,unbelievable.golf,available,6.41,51.95,high,low,12,spaceship,,,28/09/2026 07:08
 d2e93ee4-eae5-4552-9fb2-6367fd4958a2,successes.golf,available,7.99,,medium,low,9,name.com,,,
 bdb2e858-6265-4c07-867d-3ee35401656f,assess.golf,available,7.99,,high,low,6,name.com,,,
 c43abc76-2118-466f-bafb-f683d78deca9,monetary.golf,available,6.98,83.98,high,low,8,namecheap,,,25/09/2026 21:29
@@ -931,7 +948,7 @@ efddb67e-05ab-4b77-afd5-adcb02cf604f,grapey.golf,available,6.98,83.98,medium,low
 641ea387-af8d-49f9-a430-c70a62b016f4,impeding.golf,available,6.98,83.98,medium,low,8,namecheap,,,12/08/2026 11:44
 999e0eb6-3732-49fd-979f-dd832aa766da,auto.golf,resell,,,high,medium,4,"Spaceship, Inc.",27/03/2026 19:06,27/03/2027 19:06,26/09/2026 04:09
 b4fe5276-d95b-4a69-923c-311063618983,blackshirt.golf,available,7.49,64.99,medium,low,10,namesilo,,,24/09/2026 03:05
-34408e30-bfa0-4dc3-b552-fa34c1633881,utilizing.golf,available,6.98,83.98,medium,low,9,namecheap,,,21/09/2026 02:04
+34408e30-bfa0-4dc3-b552-fa34c1633881,utilizing.golf,available,7.49,64.99,medium,low,9,namesilo,,,28/09/2026 07:08
 757b6ec3-4127-4ebe-9aeb-5a6d41f43a7f,preferent.golf,available,6.98,83.98,medium,low,9,namecheap,,,09/08/2026 17:55
 c50339a5-90a6-41aa-ab73-5f8e88775cc0,succeed.golf,available,7.99,,high,low,7,name.com,,,
 9dcce618-c7c9-4a40-b422-0a0fdb754943,shahn.golf,available,7.99,84.99,medium,low,5,name.com,,,23/09/2026 07:28
@@ -982,20 +999,3 @@ d425eacc-b0b7-4e00-9b0e-52a01cf16b46,sponge.golf,available,6.98,83.98,high,low,6
 3a755e54-a4a6-4487-8822-440025c6ba16,destructive.golf,available,7.99,,medium,low,11,name.com,,,
 40584a28-66ea-4012-a20b-6274311d2624,moronic.golf,available,6.98,83.98,medium,low,7,namecheap,,,25/08/2026 06:35
 950f3f76-71f5-4cc3-837c-f98f993fb352,secured.golf,available,7.99,,high,low,7,name.com,,,
-24841c7e-d46f-436e-967b-143251aee4e0,divert.golf,available,7.99,84.99,high,low,6,name.com,,,24/09/2026 07:57
-ef65bcaa-f5de-4755-b9b4-d56284270102,measles.golf,available,7.99,,medium,low,7,name.com,,,
-504b44f2-8515-422d-a229-0324af9398fe,plunge.golf,available,6.98,83.98,high,low,6,namecheap,,,10/09/2026 19:52
-1d5d6a73-8c1c-4e1d-9bc7-3138d93d5ea0,benni.golf,available,7.49,64.99,high,low,5,namesilo,,,23/09/2026 08:28
-14ee6050-e7d9-49b4-a6f0-32ad9c852e43,hefty.golf,available,6.98,83.98,medium,low,5,namecheap,,,11/08/2026 02:48
-f2fe9527-e428-49f2-a515-de6188496f4b,keeled.golf,available,6.98,83.98,medium,low,6,namecheap,,,11/08/2026 19:16
-c0f225ac-4632-44d0-b30c-e6874107d14b,vila.golf,available,7.49,64.99,high,low,4,namesilo,,,24/09/2026 12:33
-39e0967c-8beb-44b2-a804-dcb7e8d9340d,sustenance.golf,available,6.98,83.98,high,low,10,namecheap,,,18/09/2026 07:54
-1cdc000c-2b41-4953-af6b-c93cbecd5f62,sideline.golf,available,7.49,64.99,high,low,8,namesilo,,,21/09/2026 09:42
-6d3043f4-653f-4ec8-a942-6f7a3b0ebf3d,quite.golf,available,7.99,,high,low,5,name.com,,,
-38fb4300-3137-4e71-bd97-029ee7dee6c6,class.golf,available,7.99,,high,low,5,name.com,,,
-a3778e39-aa19-43c6-9bbb-3617cc34de62,resistible.golf,available,6.98,83.98,medium,low,10,namecheap,,,09/09/2026 15:20
-f67fdb42-d46b-4c01-ae4b-8c297c424896,evasive.golf,available,6.98,83.98,medium,low,7,namecheap,,,17/08/2026 14:47
-ba89d0a0-fe99-48de-bd58-e99458939550,dagger.golf,available,6.98,83.98,high,low,6,namecheap,,,24/09/2026 20:52
-ab224b86-4b25-4b4b-b4bf-3835ac4045c3,wikimedia.golf,available,,,high,high,9,,,,
-44d25148-ec4a-4b76-8fff-e193a23f90df,financial.golf,available,7.49,64.99,high,low,9,namesilo,,,23/09/2026 07:40
-505ea92f-42db-4c6e-a67a-fce394b5ea79,literally.golf,available,7.99,,high,low,9,name.com,,,
